@@ -25,7 +25,7 @@ https://discord.gg/RUDdYSJAtQ
 
 Latest FIRMO Updates
 
-Discord Server Updates```Discord Server Updates
+```Discord Server Updates
 No current Updates
 ```
 ```FIRMO NETWORK Updates
