@@ -21,6 +21,16 @@ https://searcherr.cf
 ```Discord Server Link
 https://discord.gg/RUDdYSJAtQ
 ```
+## Updates
+
+Latest FIRMO Updates
+
+```Discord Server Updates
+No current Updates
+```
+```FIRMO NETWORK Updates
+Created a new Info/Documantation page (docs.firmo.cf)
+```
 
 ## GitHub
 
