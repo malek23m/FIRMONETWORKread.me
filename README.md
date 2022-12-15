@@ -2,7 +2,7 @@
 
 Hello, Welcome to Firmo Network Info Page
 
-```
+```FIRMO NETWORK
 OUR MAIN SITE IS STILL WORK IN PROGRESS AND ITS COMING SOON
 ```
 
